@@ -1,9 +1,9 @@
 ## Introduction
 
-# Submitted by: Gagan Mathur
-# Submission date time: 05/09/2016 03:02 BST
+### Submitted by: Gagan Mathur
+### Submission date time: 05/09/2016 03:02 BST
 
-# Submission Description
+### Submission Description
 The following files have been submitted:
 Plot1 - plot1.R and plot1.png
 Plot2 - plot2.R and plot2.png
@@ -12,7 +12,7 @@ Plot4 - plot4.R and plot4.png
 
 Please note that the colors chosen by me for the three sub-metering lines may be different from those asked for as I am partially colr-blind and can not exactly identify those colors.
 
-# Assignment Description
+## Assignment Description
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
